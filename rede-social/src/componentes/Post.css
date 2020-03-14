@@ -1,0 +1,14 @@
+  
+.post{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.posts {
+    background-color: blueviolet;
+    color: yellow;
+    padding: 10px;
+    border-radius: 5px;
+    text-align: center;
+}

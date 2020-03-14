@@ -1,0 +1,42 @@
+.navsuperior {
+    display: flex;
+    padding: 10px;
+    
+}
+
+.img{
+    width: 100px;
+    height: 100px;
+}
+
+.links {
+    width: 100%;
+}
+
+.link3 {
+    float: right;
+    margin-left: 10px;
+    margin-top: 45px;
+    
+}
+.link3 a{
+    text-decoration: none;
+}
+
+.links div{
+    
+    float: left;
+    margin-left: 10px;
+    margin-top: 45px;
+    border: 1px solid purple;
+    padding: 10px;
+    border-radius: 5px;
+    
+}
+
+.links div a{
+    text-decoration: none;
+    color: black;
+
+}
+
